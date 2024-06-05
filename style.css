@@ -1,0 +1,26 @@
+#hero{
+    background-color: #FDFFE2;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+.text-bg-primary {
+    color: #fff !important;
+    background-color:#5A72A0 !important;
+}
+.work{
+    background-color: #FDFFE2;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 10px;
+}
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+}
+#footer{
+    background-color: #5A72A0;
+
+}
